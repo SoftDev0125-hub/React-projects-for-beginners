@@ -115,10 +115,16 @@ const projects = [
     imgSrc: "assets/birthday.png"
   },
   {
+    title: "ProfileAPI",
+    url: "https://github.com/ianshulx/React-projects-for-beginners/tree/main/ProfileAPI",
+    description: "Start your coding journey with a beginner-friendly React Water-Intake-Tracker, A convenient tool for users to log and track their daily water intake, promoting hydration and healthy drinking habits.",
+    imgSrc: "assets/water.png"
+  },
+  {
     title: "Water-Intake-Tracker",
     url: "https://github.com/ianshulx/React-projects-for-beginners/tree/main/Water-Intake-Tracker",
     description: "Start your coding journey with a beginner-friendly React Water-Intake-Tracker, A convenient tool for users to log and track their daily water intake, promoting hydration and healthy drinking habits.",
-    imgSrc: "assets/water.png"
+    imgSrc: "assets/profile.png"
   },
   {
     title: "Random-Travel-Destination-Suggester",
