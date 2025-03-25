@@ -506,6 +506,13 @@ const projects = [
     description:"A React app that tracks and motivates your daily learning streaks to build consistent study habits.",
     imgSrc:"assets/streak.png"
   },
+  {
+    title:"Stackoverflow Clone",
+    url:"https://github.com/ianshulx/React-projects-for-beginners/tree/main-616/Stackoverflow-Clone",
+    description:"A Stackoverflow clone is a platform where users can ask questions, provide answers, and engage in discussions on various topics.",
+    imgSrc:"assets/stackoverflow.png"
+
+  },
  
 ];
 
