@@ -515,7 +515,7 @@ const projects = [
   },
   {
     title:"Simple-auth-kit",
-    url:"https://github.com/ianshulx/React-projects-for-beginners/tree/main/simple-auth-kit",
+    url:"https://github.com/ianshulx/React-projects-for-beginners/tree/main-616/simple-auth-kit",
     description:"A simple and reusable Node.js authentication package using **MongoDB**, **JWT**, and **bcrypt**. Just plug it into your frontend project and go!",
     imgSrc:"assets/Simple-auth-kit.png"
 
