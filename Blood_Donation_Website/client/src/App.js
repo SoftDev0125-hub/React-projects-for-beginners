@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import DonorRegistrationPage from "./components/DonorRegistrationPage";
 import Home from "./components/Home";
 import AboutUs from "./components/AboutUs";
+import ContactUs from "./components/ContactUs";
 function App() {
   return (
     <Router>
@@ -13,6 +14,7 @@ function App() {
           <Route path="/donate" element={<DonorRegistrationPage />} />
           <Route path="/" element={<Home />} />
           <Route path="/aboutus" element={<AboutUs />} />
+          <Route path="/contact" element={<ContactUs />} />
         </Routes>
       </div>
     </Router>
