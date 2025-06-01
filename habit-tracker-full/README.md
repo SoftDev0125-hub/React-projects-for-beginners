@@ -15,9 +15,6 @@ A clean, cute, and minimalistic weekly habit tracker built with React.
 - CSS (no frameworks)
 - LocalStorage for persistence
 
-## Preview
-
-![screenshot](./preview.png)
 
 ## How to run
 
