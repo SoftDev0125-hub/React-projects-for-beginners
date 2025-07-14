@@ -19,6 +19,12 @@ const projects = [
     imgSrc: "assets/currency.png"
   },
   {
+    title: "Memory Game App",
+    url: "https://github.com/Asfand-Yar-dev/React-projects-for-beginners/tree/main/memory-game",
+    description: "A simple and fun memory matching game built with React. Flip the cards, find matching pairs, and test your memory skills!",
+    imgSrc: "assets/memory-game.jpeg"
+  },
+  {
     title: "Tip Calculator App",
     url: "https://github.com/ianshulx/React-projects-for-beginners/tree/main/Tip-Calculator",
     description: "Start your coding journey with a beginner-friendly React Tip-Calculator App, A simple and efficient way for users to calculate tips accurately and effortlessly. ",
