@@ -409,6 +409,13 @@ const projects = [
     description: "A secure React-based password manager built with the MERN stack for storing and managing credentials.",
     imgSrc: "assets/Manager.png"
   },
+    {
+    title: "React Docs Blog",
+    url: "https://github.com/YOUR-USERNAME/React-projects-for-beginners/tree/dev/react-docs-blog",
+    description: "A React-based blog app documenting React concepts and interview questions, built with a clean and structured layout for learning and reference.",
+    imgSrc: "assets/react-docs-blog.png"
+  },
+
   
   {
     title: "iNoteBook - A Platform for Notes",
