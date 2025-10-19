@@ -5,7 +5,7 @@ Welcome to the React Project for Beginners Repository! This is a special place f
 <h3>NOTE#1: PLEASE CHECK YOUR PROJECT CAREFULLY, IT SHOULD BE ERROR-FREE. YOUR PROJECT WILL BE REVIEWED. IF THE REVIEWER FOUND ANY ERROR, YOUR REQUEST WILL BE MARKED AS "INVALID".</h3>
 
 <h3>NOTE#2: DON'T FORGET TO LIST YOUR PROJECT IN THE `projects.js` FILE IN THE ROOT FOLDER OF THE REPO. YOU CAN ALSO ADD THE DEMO LINK OF YOUR PROJECT(IF ANY)</h3>
-<h3>NOTE #3: Please read the <a href="https://github.com/ianshulx/React-projects-for-beginners/blob/main/Repo_Size_Guidelines">Repo-Size Management Guidelines</a>.</h3>
+<h3>NOTE #3: Please read the <a href="https://github.com/SoftDev0125-hub/React-projects-for-beginners/blob/main/Repo_Size_Guidelines">Repo-Size Management Guidelines</a>.</h3>
 
   
 <h3>Description</h3>
@@ -25,7 +25,7 @@ Hacktoberfest is a month-long celebration of open-source software run by Digital
 2._Clone_: Clone the forked repo (the repo present on your account) to your local machine (reminder: make sure you are in the directory where you want the repository stored).
 
 ```terminal
-git clone https://github.com/ianshulx/React-projects-for-beginners
+git clone https://github.com/SoftDev0125-hub/React-projects-for-beginners
 ```
 
 3. Create a _new Branch_
@@ -143,7 +143,7 @@ It's Hacktoberfest currently!
 <h3>NOTE#1: PLEASE CHECK YOUR PROJECT CAREFULLY. IT SHOULD BE ERROR-FREE. YOUR PROJECT WILL BE REVIEWED. IF THE REVIEWER FINDS ANY ERROR, YOUR REQUEST WILL BE MARKED AS "INVALID".</h3>h3>
 
 <h3>NOTE#2: DON'T FORGET TO LIST YOUR PROJECT IN THE `projects.js` FILE IN THE ROOT FOLDER OF THE REPO. YOU CAN ALSO ADD THE DEMO LINK OF YOUR PROJECT(IF ANY)</h3>
-<h3> NOTE#3: Please read [Repo-Size Management Guidelines](https://github.com/ianshulx/React-projects-for-beginners/blob/main/Repo_Size_Guidelines) </h3>
+<h3> NOTE#3: Please read [Repo-Size Management Guidelines](https://github.com/SoftDev0125-hub/React-projects-for-beginners/blob/main/Repo_Size_Guidelines) </h3>
   
 <h3>Description</h3>
 
@@ -162,7 +162,7 @@ Hacktoberfest is a month-long celebration of open-source software run by Digital
 2._Clone_: Clone the forked repo (the repo present on your account) to your local machine (reminder : make sure you are in the directory where you want the repository stored).
 
 ```terminal
-git clone https://github.com/ianshulx/React-projects-for-beginners
+git clone https://github.com/SoftDev0125-hub/React-projects-for-beginners
 ```
 
 3. Create a _new Branch_
@@ -280,7 +280,7 @@ It's Hacktoberfest currently!
 <h3>NOTE#1: PLEASE CHECK YOUR PROJECT CAREFULLY, IT SHOULD BE ERROR-FREE. YOUR PROJECT WILL BE REVIEWED. IF THE REVIEWER FINDS ANY ERROR, YOUR REQUEST WILL BE MARKED AS "INVALID".<h3>
 
 <h3>NOTE#2: DON'T FORGET TO LIST YOUR PROJECT IN THE `projects.js` FILE IN THE ROOT FOLDER OF THE REPO. YOU CAN ALSO ADD THE DEMO LINK OF YOUR PROJECT(IF ANY)<h3>
-<h3> NOTE#3: Please read [Repo-Size Management Guidelines](https://github.com/ianshulx/React-projects-for-beginners/blob/main/Repo_Size_Guidelines) </h3>
+<h3> NOTE#3: Please read [Repo-Size Management Guidelines](https://github.com/SoftDev0125-hub/React-projects-for-beginners/blob/main/Repo_Size_Guidelines) </h3>
   
 <h3>Description</h3>
 
@@ -299,7 +299,7 @@ Hacktoberfest is a month-long celebration of open-source software run by Digital
 2._Clone_: Clone the forked repo (the repo present on your account) to your local machine (reminder : make sure you are in the directory where you want the repository stored).
 
 ```terminal
-git clone https://github.com/ianshulx/React-projects-for-beginners
+git clone https://github.com/SoftDev0125-hub/React-projects-for-beginners
 ```
 
 3. Create a _new Branch_
